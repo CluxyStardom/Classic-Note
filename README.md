@@ -49,3 +49,7 @@ This copies `Classic-Note.desktop` to `~/.local/share/applications` so you can l
 Notes are stored in:
 
 `~/.local/share/Classic-Note/notes.json`
+
+## Coming Soon
+
+App icon:(
