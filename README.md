@@ -29,7 +29,7 @@ git clone https://github.com/CluxyStardom/Classic-Note
 ```
 
 ```bash
-cd ~/classic-note
+cd ~/Classic-Note
 python3 main.py
 ```
 
@@ -38,14 +38,14 @@ python3 main.py
 Install the desktop launcher with:
 
 ```bash
-cd ~/classic-note
+cd ~/Classic-Note
 ./install.sh
 ```
 
-This copies `classic-note.desktop` to `~/.local/share/applications` so you can launch the app from your desktop environment menu.
+This copies `Classic-Note.desktop` to `~/.local/share/applications` so you can launch the app from your desktop environment menu.
 
 ## Notes storage
 
 Notes are stored in:
 
-`~/.local/share/classic-note/notes.json`
+`~/.local/share/Classic-Note/notes.json`
