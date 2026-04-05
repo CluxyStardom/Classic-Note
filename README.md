@@ -33,7 +33,7 @@ cd ~/Classic-Note
 python3 main.py
 ```
 
-## installation
+## Installation
 
 Install the desktop launcher with:
 
