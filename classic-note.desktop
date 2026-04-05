@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Classic Note
+Comment=Simple offline notes app
+Exec=python3 main.py
+Icon=utilities-text-editor
+Terminal=false
+Categories=Utility;Office;
+StartupNotify=true
