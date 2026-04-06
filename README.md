@@ -8,6 +8,8 @@ A super simple and Fully offline notes application using Python and GTK.
 - Note list and editor layout like a phone-style notes app
 - Create, save, export, and delete notes
 - Fully offline with no other stuff
+- note pinning
+- note searching
 
 ## Requirements
 
