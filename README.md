@@ -1,6 +1,6 @@
 # Classic Note
 
-A super simple fully offline notes application using Python and GTK.
+A super simple and Fully offline notes application using Python and GTK.
 
 ## Features
 
